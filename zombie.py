@@ -147,7 +147,7 @@ def reset_game():
             "zombie": ["normal","normal"]
         },
         "rdc_hallway": {
-            "description": "You're heart racing you must choose go left towards the dorms or go right towards kirby student center",
+            "description": "Your heart is racing. You must choose go left towards the dorms or go right towards Kirby Student Center",
             "exits": {"left": "griggs_hall", "right": "kirby_student_center_floor_3", },
             "items": ["backpack"],
             "hide": "You hide in the bathrooms for 2 mins",
